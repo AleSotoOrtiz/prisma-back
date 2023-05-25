@@ -1,1 +1,1 @@
-sudo systemctl restart Alex_Christian.service/prisma-back
+sudo systemctl restart mi_servicio.service
